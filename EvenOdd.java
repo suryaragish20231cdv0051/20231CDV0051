@@ -1,7 +1,7 @@
 public class EvenOdd {
     public static void main(String[] args) {
 
-        int number=500
+        int number=500;
 
         if (number % 2 == 0) {
             System.out.println("Even");
